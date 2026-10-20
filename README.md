@@ -1,4 +1,7 @@
-![DPI Logo](docs/dpi%20header.jpeg)
+<p align="center">
+    <img width="500" src="docs/dpiformal.png" alt="DPI logo">
+</p>
+
 # Week 1 — HTML + CSS (Tailwind) + GitHub 🚀
 
 Build and publish your first web page: a **Profile Card** that grows into a **Profile Page**.  
